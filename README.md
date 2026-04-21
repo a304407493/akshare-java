@@ -273,7 +273,7 @@ try {
 
 - [AKShare Python版](https://www.akshare.xyz/)
 - [东方财富网](https://www.eastmoney.com/)
-- [问题反馈](https://github.com/your-username/akshare-java/issues)
+- [问题反馈](https://github.com/a304407493/akshare-java/issues)
 
 ---
 
