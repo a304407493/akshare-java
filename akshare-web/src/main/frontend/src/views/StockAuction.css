@@ -1,0 +1,42 @@
+.stock-auction {
+  padding: 0;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.bid-ask-container {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.bid-ask-card {
+  flex: 1;
+}
+
+.bid-ask-table {
+  width: 100%;
+}
+
+.price-red {
+  color: #f56c6c;
+}
+
+.price-green {
+  color: #67c23a;
+}
