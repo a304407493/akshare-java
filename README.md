@@ -17,7 +17,8 @@
   <a href="#项目结构">项目结构</a> •
   <a href="#API文档">API文档</a> •
   <a href="#Web可视化">Web可视化</a> •
-  <a href="#贡献指南">贡献指南</a>
+  <a href="#贡献指南">贡献指南</a> •
+  <a href="docs/wechat-community.md">💬 加入社区</a>
 </p>
 
 ---

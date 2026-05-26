@@ -41,6 +41,9 @@
 - [故障排查](troubleshooting.md) - 常见问题和解决方案
 - [更新日志](../CHANGELOG.md) - 版本更新历史
 
+### 社区交流
+- [💬 加入微信社区](wechat-community.md) - 加入开发者微信群，与其他开发者交流
+
 ## 快速链接
 
 - [GitHub仓库](https://github.com/a304407493/akshare-java)
