@@ -23,6 +23,10 @@
 
 ### 群聊：akshare和mootdx
 
+<p align="center">
+  <img src="images/wechat-group.png" alt="微信群二维码" width="300">
+</p>
+
 在群里你可以：
 - 与志同道合的开发者交流技术心得
 - 获取项目的最新动态和更新
@@ -39,6 +43,10 @@
 如果你想直接联系项目负责人，或者有商业合作、深度技术交流的需求，欢迎添加个人微信：
 
 ### 个人微信：K（中国大陆 北京）
+
+<p align="center">
+  <img src="images/wechat-personal.png" alt="个人微信二维码" width="300">
+</p>
 
 添加时请备注：**AKShare Java** 或 **开源项目**，方便快速通过验证。
 
