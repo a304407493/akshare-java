@@ -278,6 +278,28 @@ try {
 
 ---
 
+## 加入社区
+
+欢迎加入 AKShare Java 开发者社区，与志同道合的朋友一起交流！
+
+### 微信群
+
+<p align="center">
+  <img src="docs/images/wechat-group.png" alt="微信群二维码" width="280">
+  <br>
+  <sub>群聊：akshare和mootdx（有效期至6月2日）</sub>
+</p>
+
+### 个人微信
+
+<p align="center">
+  <img src="docs/images/wechat-personal.png" alt="个人微信二维码" width="280">
+  <br>
+  <sub>添加时请备注：AKShare Java 或 开源项目</sub>
+</p>
+
+---
+
 <p align="center">
   如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！
 </p>
